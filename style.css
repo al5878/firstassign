@@ -1,0 +1,44 @@
+h1{
+  color: Red;
+  font-family: "Georiga" ;
+  text-align: center;
+}
+h3{
+  font-family: "Arial" ;
+
+}
+p{
+  font-family: "Arial" ;
+  text-align: center;
+}
+a{
+  font-family: "Arial" ;
+}
+.grey-brownbackground{
+background-color: #ADA19F;
+}
+#statement{
+  color: Grey;
+  font-family: "Arial" ;
+  text-align: center;
+}
+
+#black1{
+  color: rgb(0, 0, 0);
+}
+#black2{
+    color: rgb(25, 25, 25);
+}
+#black3{
+    color: rgb(50, 50, 50);
+}
+#black4{
+    color: rgb(75,75,75);
+}
+#black5{
+    color: rgb(100, 100, 100);
+}
+
+span{
+  color: Red;
+}
